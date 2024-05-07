@@ -1,4 +1,4 @@
-
+text_ignore.txt
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
@@ -19,6 +19,7 @@ rad.json
 #License-file
 *.flf
 #Test results file
+<<<<<<< HEAD
 TestResults.xml 
   GNU nano 7.2                  .gitignore                  Modified
 
@@ -42,3 +43,6 @@ rad.json
 text_ignore.txt
 
  
+=======
+TestResults.xml
+>>>>>>> 596f0fd54a72e38d0d30ddb374cd93e4eaaca188
