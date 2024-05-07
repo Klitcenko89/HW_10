@@ -39,6 +39,6 @@ TestResults.xml
 rad.json
 #Translation Base-file
 *.g.xlf
- text_ignore.txt
+text_ignore.txt
 
  
